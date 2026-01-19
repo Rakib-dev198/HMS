@@ -1,0 +1,15 @@
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.welcome1.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.customer.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ihksh\source\repos\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\ihksh\source\repos\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ihksh\source\repos\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.register.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.reception.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.Booking.resources
+C:\Users\ihksh\source\repos\HMS\HMS\obj\Debug\HMS.Receipt.resources
