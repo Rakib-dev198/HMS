@@ -29,12 +29,22 @@ namespace HMS
         private void btnreceipt_Click(object sender, EventArgs e)
         {
             decimal discount = 0;
-            if (!string.IsNullOrEmpty(txtCoupon.Text) && txtCoupon.Text.Trim().Equals("DISCOUNT10", StringComparison.OrdinalIgnoreCase))
+            if (!string.IsNullOrEmpty(txtCoupon.Text) &&
+                txtCoupon.Text.Trim().Equals("DISCOUNT10", StringComparison.OrdinalIgnoreCase))
             {
                 discount = baseBill * 0.10m;
             }
 
             decimal finalBill = baseBill - discount;
+
+            // Save complaint to database using DbHelper
+            string complainText = richbox.Text.Trim();
+            if (!string.IsNullOrEmpty(complainText))
+            {
+                string safeComplaint = complainText.Replace("'", "''");
+                string query = $"INSERT INTO complain (Name, Complain) VALUES ('{customerName}', '{safeComplaint}')";
+                DbHelper.ExecuteQuery(query);
+            }
 
             MessageBox.Show(
                 $"--- Receipt ---\n\n" +
@@ -50,6 +60,7 @@ namespace HMS
                 MessageBoxIcon.Information
             );
         }
+
         private void rbyes_CheckedChanged(object sender, EventArgs e)
         {
             txtCoupon.Enabled = rbyes.Checked;
@@ -62,14 +73,21 @@ namespace HMS
 
         private void rbyes_Click(object sender, EventArgs e)
         {
-
+            // Optional: Add logic if needed
         }
 
         private void btnback_Click(object sender, EventArgs e)
         {
-            Booking bookingForm = new Booking(customerName); // Pass the name back if needed
+            Booking bookingForm = new Booking(customerName);
             bookingForm.Show();
-            this.Hide(); // Or use this.Close() if you want to fully exit the receipt for
+            this.Hide();
+        }
+
+        private void btnback_Click_1(object sender, EventArgs e)
+        {
+            welcome1 home = new welcome1();
+            home.Show();    
+            this.Hide();
         }
     }
 }

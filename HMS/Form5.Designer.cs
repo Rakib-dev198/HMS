@@ -49,6 +49,7 @@
             this.cbFood = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.btnlogout = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -100,9 +101,9 @@
             // 
             // btnback
             // 
-            this.btnback.Location = new System.Drawing.Point(15, 415);
+            this.btnback.Location = new System.Drawing.Point(15, 397);
             this.btnback.Name = "btnback";
-            this.btnback.Size = new System.Drawing.Size(75, 23);
+            this.btnback.Size = new System.Drawing.Size(105, 41);
             this.btnback.TabIndex = 14;
             this.btnback.Text = "Back";
             this.btnback.UseVisualStyleBackColor = true;
@@ -110,11 +111,11 @@
             // 
             // btnbook
             // 
-            this.btnbook.Location = new System.Drawing.Point(371, 373);
+            this.btnbook.Location = new System.Drawing.Point(359, 356);
             this.btnbook.Name = "btnbook";
-            this.btnbook.Size = new System.Drawing.Size(89, 65);
+            this.btnbook.Size = new System.Drawing.Size(123, 82);
             this.btnbook.TabIndex = 15;
-            this.btnbook.Text = "Book !";
+            this.btnbook.Text = "Confirm!";
             this.btnbook.UseVisualStyleBackColor = true;
             this.btnbook.Click += new System.EventHandler(this.btnbook_Click);
             // 
@@ -256,11 +257,22 @@
             this.groupBox2.TabIndex = 35;
             this.groupBox2.TabStop = false;
             // 
+            // btnlogout
+            // 
+            this.btnlogout.Location = new System.Drawing.Point(686, 397);
+            this.btnlogout.Name = "btnlogout";
+            this.btnlogout.Size = new System.Drawing.Size(102, 41);
+            this.btnlogout.TabIndex = 36;
+            this.btnlogout.Text = "Logout";
+            this.btnlogout.UseVisualStyleBackColor = true;
+            this.btnlogout.Click += new System.EventHandler(this.btnlogout_Click);
+            // 
             // Booking
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnlogout);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.rbsuite);
@@ -279,7 +291,7 @@
             this.Controls.Add(this.name);
             this.Name = "Booking";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Booking";
+            this.Text = "Booking | Customer";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -311,5 +323,6 @@
         private System.Windows.Forms.CheckBox cbFood;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button btnlogout;
     }
 }

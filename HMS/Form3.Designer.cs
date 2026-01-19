@@ -218,7 +218,7 @@
             this.Controls.Add(this.lblid);
             this.Name = "register";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Register";
+            this.Text = "Register | Customer";
             this.ResumeLayout(false);
             this.PerformLayout();
 

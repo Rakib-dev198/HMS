@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ihksh\\source\\HMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +74,200 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\DbHelper.cs",
+              "RelativeDocumentMoniker": "HMS\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\DbHelper.cs",
+              "RelativeToolTip": "HMS\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:14:06.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "HMS\\Form8.Designer.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.Designer.cs",
+              "RelativeToolTip": "HMS\\Form8.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv1sAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:22:29.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
+              "RelativeDocumentMoniker": "HMS\\Form8.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
+              "RelativeToolTip": "HMS\\Form8.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv18AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:57:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
+              "RelativeDocumentMoniker": "HMS\\Form8.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs [Design]",
+              "RelativeToolTip": "HMS\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:43:14.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs",
+              "RelativeDocumentMoniker": "HMS\\Form7.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs",
+              "RelativeToolTip": "HMS\\Form7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:07:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs",
+              "RelativeDocumentMoniker": "HMS\\Form7.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs [Design]",
+              "RelativeToolTip": "HMS\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:01:23.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
+              "RelativeDocumentMoniker": "HMS\\Form6.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs [Design]",
+              "RelativeToolTip": "HMS\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:00:11.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
+              "RelativeDocumentMoniker": "HMS\\Form6.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
+              "RelativeToolTip": "HMS\\Form6.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAvwFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:32:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs",
+              "RelativeDocumentMoniker": "HMS\\Form5.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs",
+              "RelativeToolTip": "HMS\\Form5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:57:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs",
+              "RelativeDocumentMoniker": "HMS\\Form5.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs [Design]",
+              "RelativeToolTip": "HMS\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:00:11.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs",
+              "RelativeDocumentMoniker": "HMS\\Form4.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs [Design]",
+              "RelativeToolTip": "HMS\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:00:09.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs",
+              "RelativeDocumentMoniker": "HMS\\Form4.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs",
+              "RelativeToolTip": "HMS\\Form4.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswIUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:00:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form3.cs",
+              "RelativeDocumentMoniker": "HMS\\Form3.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form3.cs [Design]",
+              "RelativeToolTip": "HMS\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:00:08.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form2.cs",
+              "RelativeDocumentMoniker": "HMS\\Form2.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form2.cs [Design]",
+              "RelativeToolTip": "HMS\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:00:07.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form1.cs",
+              "RelativeDocumentMoniker": "HMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form1.cs",
+              "RelativeToolTip": "HMS\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:53:09.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form1.cs",
               "RelativeDocumentMoniker": "HMS\\Form1.cs",

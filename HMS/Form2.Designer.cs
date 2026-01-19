@@ -124,7 +124,7 @@
             this.Controls.Add(this.txtName);
             this.Name = "customer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
+            this.Text = "Login | Customer";
             this.ResumeLayout(false);
             this.PerformLayout();
 

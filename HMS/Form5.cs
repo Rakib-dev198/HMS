@@ -85,5 +85,12 @@ namespace HMS
             customerForm.Show();
             this.Hide();
         }
+
+        private void btnlogout_Click(object sender, EventArgs e)
+        {
+            customer customerForm = new customer(); // Pass the name back if needed
+            customerForm.Show();
+            this.Hide();
+        }
     }
 }

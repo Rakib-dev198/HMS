@@ -40,6 +40,8 @@
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtMobile = new System.Windows.Forms.TextBox();
             this.txtGender = new System.Windows.Forms.ComboBox();
+            this.btncomplain = new System.Windows.Forms.Button();
+            this.txtpin = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,13 +50,13 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(463, 305);
+            this.dataGridView1.Size = new System.Drawing.Size(552, 305);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // btnselect
             // 
-            this.btnselect.Location = new System.Drawing.Point(713, 19);
+            this.btnselect.Location = new System.Drawing.Point(713, 47);
             this.btnselect.Name = "btnselect";
             this.btnselect.Size = new System.Drawing.Size(75, 23);
             this.btnselect.TabIndex = 1;
@@ -64,7 +66,7 @@
             // 
             // btnupdate
             // 
-            this.btnupdate.Location = new System.Drawing.Point(713, 48);
+            this.btnupdate.Location = new System.Drawing.Point(713, 91);
             this.btnupdate.Name = "btnupdate";
             this.btnupdate.Size = new System.Drawing.Size(75, 23);
             this.btnupdate.TabIndex = 2;
@@ -74,7 +76,7 @@
             // 
             // btndelete
             // 
-            this.btndelete.Location = new System.Drawing.Point(713, 77);
+            this.btndelete.Location = new System.Drawing.Point(713, 134);
             this.btndelete.Name = "btndelete";
             this.btndelete.Size = new System.Drawing.Size(75, 23);
             this.btndelete.TabIndex = 3;
@@ -84,11 +86,11 @@
             // 
             // btnshow
             // 
-            this.btnshow.Location = new System.Drawing.Point(13, 323);
+            this.btnshow.Location = new System.Drawing.Point(12, 323);
             this.btnshow.Name = "btnshow";
-            this.btnshow.Size = new System.Drawing.Size(75, 23);
+            this.btnshow.Size = new System.Drawing.Size(100, 45);
             this.btnshow.TabIndex = 4;
-            this.btnshow.Text = "Show";
+            this.btnshow.Text = "Show Customers";
             this.btnshow.UseVisualStyleBackColor = true;
             this.btnshow.Click += new System.EventHandler(this.btnshow_Click);
             // 
@@ -114,28 +116,28 @@
             // 
             // txtID
             // 
-            this.txtID.Location = new System.Drawing.Point(521, 50);
+            this.txtID.Location = new System.Drawing.Point(570, 50);
             this.txtID.Name = "txtID";
             this.txtID.Size = new System.Drawing.Size(100, 20);
             this.txtID.TabIndex = 8;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(521, 103);
+            this.txtName.Location = new System.Drawing.Point(570, 94);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(100, 20);
             this.txtName.TabIndex = 9;
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(521, 159);
+            this.txtEmail.Location = new System.Drawing.Point(570, 137);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(100, 20);
             this.txtEmail.TabIndex = 10;
             // 
             // txtMobile
             // 
-            this.txtMobile.Location = new System.Drawing.Point(521, 209);
+            this.txtMobile.Location = new System.Drawing.Point(570, 185);
             this.txtMobile.Name = "txtMobile";
             this.txtMobile.Size = new System.Drawing.Size(100, 20);
             this.txtMobile.TabIndex = 11;
@@ -146,16 +148,36 @@
             this.txtGender.Items.AddRange(new object[] {
             "Male",
             "Female"});
-            this.txtGender.Location = new System.Drawing.Point(521, 276);
+            this.txtGender.Location = new System.Drawing.Point(570, 235);
             this.txtGender.Name = "txtGender";
             this.txtGender.Size = new System.Drawing.Size(121, 21);
             this.txtGender.TabIndex = 12;
+            // 
+            // btncomplain
+            // 
+            this.btncomplain.Location = new System.Drawing.Point(338, 415);
+            this.btncomplain.Name = "btncomplain";
+            this.btncomplain.Size = new System.Drawing.Size(95, 34);
+            this.btncomplain.TabIndex = 13;
+            this.btncomplain.Text = "Complain Box";
+            this.btncomplain.UseVisualStyleBackColor = true;
+            this.btncomplain.Click += new System.EventHandler(this.btncomplain_Click);
+            // 
+            // txtpin
+            // 
+            this.txtpin.Location = new System.Drawing.Point(439, 423);
+            this.txtpin.Name = "txtpin";
+            this.txtpin.Size = new System.Drawing.Size(95, 20);
+            this.txtpin.TabIndex = 14;
+            this.txtpin.Text = "Enter Pin";
             // 
             // reception
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(804, 461);
+            this.Controls.Add(this.txtpin);
+            this.Controls.Add(this.btncomplain);
             this.Controls.Add(this.txtGender);
             this.Controls.Add(this.txtMobile);
             this.Controls.Add(this.txtEmail);
@@ -170,7 +192,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "reception";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Reception";
+            this.Text = "Reception | Employee";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -191,5 +213,7 @@
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.TextBox txtMobile;
         private System.Windows.Forms.ComboBox txtGender;
+        private System.Windows.Forms.Button btncomplain;
+        private System.Windows.Forms.TextBox txtpin;
     }
 }

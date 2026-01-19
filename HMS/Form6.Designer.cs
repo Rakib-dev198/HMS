@@ -35,6 +35,8 @@
             this.btnreceipt = new System.Windows.Forms.Button();
             this.rbyes = new System.Windows.Forms.RadioButton();
             this.rbno = new System.Windows.Forms.RadioButton();
+            this.richbox = new System.Windows.Forms.RichTextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // coupon
@@ -71,7 +73,7 @@
             this.btnback.TabIndex = 5;
             this.btnback.Text = "Back";
             this.btnback.UseVisualStyleBackColor = true;
-            this.btnback.Click += new System.EventHandler(this.btnback_Click);
+            this.btnback.Click += new System.EventHandler(this.btnback_Click_1);
             // 
             // btnreceipt
             // 
@@ -107,11 +109,30 @@
             this.rbno.Text = "No";
             this.rbno.UseVisualStyleBackColor = true;
             // 
+            // richbox
+            // 
+            this.richbox.Location = new System.Drawing.Point(524, 163);
+            this.richbox.Name = "richbox";
+            this.richbox.Size = new System.Drawing.Size(241, 110);
+            this.richbox.TabIndex = 9;
+            this.richbox.Text = "";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(521, 130);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(116, 13);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Complain? fill this form :";
+            // 
             // Receipt
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.richbox);
             this.Controls.Add(this.rbno);
             this.Controls.Add(this.rbyes);
             this.Controls.Add(this.btnreceipt);
@@ -120,7 +141,7 @@
             this.Controls.Add(this.txtCoupon);
             this.Controls.Add(this.coupon);
             this.Name = "Receipt";
-            this.Text = "Receipt";
+            this.Text = "Receipt | Customer";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -134,5 +155,7 @@
         private System.Windows.Forms.Button btnreceipt;
         private System.Windows.Forms.RadioButton rbyes;
         private System.Windows.Forms.RadioButton rbno;
+        private System.Windows.Forms.RichTextBox richbox;
+        private System.Windows.Forms.Label label1;
     }
 }
