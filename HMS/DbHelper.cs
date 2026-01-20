@@ -11,7 +11,7 @@ namespace HMS
     public class DbHelper
     {
         private static readonly string connectionString =
-            (@"Data Source=.\SQLEXPRESS;Initial Catalog=HMS;Integrated Security=True;");
+            (@"Data Source=.\SQLEXPRESS;Initial Catalog=HMS;Integrated Security=True;TrustServerCertificate=True;");
 
         // OPEN CONNECTION
         public static SqlConnection GetConnection()

@@ -3,68 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\ihksh\\source\\HMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|C:\\Users\\ihksh\\source\\HMS\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|c:\\users\\ihksh\\source\\hms\\hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557FA580-303D-49D3-B942-19798391B922}|HMS\\HMS.csproj|solutionrelative:hms\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DbHelper.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\DbHelper.cs",
               "RelativeDocumentMoniker": "HMS\\DbHelper.cs",
               "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\DbHelper.cs",
               "RelativeToolTip": "HMS\\DbHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T21:14:06.964Z",
               "IsPinned": true,
@@ -92,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Form8.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.Designer.cs",
               "RelativeDocumentMoniker": "HMS\\Form8.Designer.cs",
@@ -105,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Form8.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
               "RelativeDocumentMoniker": "HMS\\Form8.cs",
               "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
               "RelativeToolTip": "HMS\\Form8.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAADwv18AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T22:57:43.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form8.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form8.cs",
               "RelativeDocumentMoniker": "HMS\\Form8.cs",
@@ -130,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Form7.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs",
               "RelativeDocumentMoniker": "HMS\\Form7.cs",
@@ -143,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form7.cs",
               "RelativeDocumentMoniker": "HMS\\Form7.cs",
@@ -155,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
               "RelativeDocumentMoniker": "HMS\\Form6.cs",
@@ -167,20 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
               "RelativeDocumentMoniker": "HMS\\Form6.cs",
               "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form6.cs",
               "RelativeToolTip": "HMS\\Form6.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAvwFkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv4MAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T20:32:09.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs",
               "RelativeDocumentMoniker": "HMS\\Form5.cs",
@@ -193,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form5.cs",
               "RelativeDocumentMoniker": "HMS\\Form5.cs",
@@ -205,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs",
               "RelativeDocumentMoniker": "HMS\\Form4.cs",
@@ -217,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form4.cs",
               "RelativeDocumentMoniker": "HMS\\Form4.cs",
@@ -230,19 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form3.cs",
-              "RelativeDocumentMoniker": "HMS\\Form3.cs",
-              "ToolTip": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form3.cs [Design]",
-              "RelativeToolTip": "HMS\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T20:00:08.467Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form2.cs",
               "RelativeDocumentMoniker": "HMS\\Form2.cs",
@@ -254,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form1.cs",
               "RelativeDocumentMoniker": "HMS\\Form1.cs",
@@ -267,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ihksh\\source\\HMS\\HMS\\Form1.cs",
               "RelativeDocumentMoniker": "HMS\\Form1.cs",

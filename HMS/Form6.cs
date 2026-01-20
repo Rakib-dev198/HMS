@@ -89,5 +89,47 @@ namespace HMS
             home.Show();    
             this.Hide();
         }
+
+        private void txtcard_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btncard_Click(object sender, EventArgs e)
+        {
+            decimal discount = 0;
+            if (!string.IsNullOrEmpty(txtCoupon.Text) &&
+                txtCoupon.Text.Trim().Equals("DISCOUNT10", StringComparison.OrdinalIgnoreCase))
+            {
+                discount = baseBill * 0.10m;
+            }
+
+            decimal finalBill = baseBill - discount;
+
+            // Save complaint to database using DbHelper
+            string complainText = richbox.Text.Trim();
+            if (!string.IsNullOrEmpty(complainText))
+            {
+                string safeComplaint = complainText.Replace("'", "''");
+                string query = $"INSERT INTO complain (Name, Complain) VALUES ('{customerName}', '{safeComplaint}')";
+                DbHelper.ExecuteQuery(query);
+            }
+
+            MessageBox.Show(
+                $"--- Payment Receipt ---\n\n" +
+                $"Customer: {customerName}\n" +
+                $"Room Type: {roomType}\n" +
+                $"Services: {(string.IsNullOrEmpty(servicesUsed) ? "None" : servicesUsed)}\n" +
+                $"Parking: {(parking ? "Yes" : "No")}\n\n" +
+                $"Base Bill: {baseBill:0.00} BDT\n" +
+                $"Discount: {discount:0.00} BDT\n" +
+                $"Final Bill: {finalBill:0.00} BDT\n\n" +
+                $"✅ Payment Done. Thank you!",
+                "Payment Confirmation",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information
+            );
+
+        }
     }
 }
